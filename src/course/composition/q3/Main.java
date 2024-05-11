@@ -1,7 +1,5 @@
 package course.composition.q3;
 
-import course.composition.q3.model.entities.Reservation;
-
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;

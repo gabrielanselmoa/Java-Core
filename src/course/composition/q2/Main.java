@@ -1,8 +1,5 @@
 package course.composition.q2;
 
-import course.composition.q2.model.entities.Comment;
-import course.composition.q2.model.entities.Post;
-
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.time.format.DateTimeFormatter;

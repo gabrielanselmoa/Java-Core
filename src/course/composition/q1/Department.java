@@ -1,4 +1,4 @@
-package course.composition.q1.model.entities;
+package course.composition.q1;
 
 public class Department {
 

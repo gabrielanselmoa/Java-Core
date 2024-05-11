@@ -1,4 +1,4 @@
-package course.composition.q2.model.entities;
+package course.composition.q2;
 
 public class Comment {
 

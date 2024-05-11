@@ -1,9 +1,5 @@
 package course.composition.q1;
 
-import course.composition.q1.model.entities.Department;
-import course.composition.q1.model.entities.HourContract;
-import course.composition.q1.model.entities.Worker;
-
 import java.util.Date;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

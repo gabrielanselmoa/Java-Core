@@ -1,6 +1,4 @@
-package course.composition.q2.model.entities;
-
-import course.composition.q2.model.entities.Comment;
+package course.composition.q2;
 
 import java.util.ArrayList;
 import java.util.Date;

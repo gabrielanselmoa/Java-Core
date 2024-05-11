@@ -1,4 +1,4 @@
-package course.composition.q3.model.entities;
+package course.composition.q3;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
